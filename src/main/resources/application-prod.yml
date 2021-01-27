@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.NonRegisteringDriver
+    username: root
+    password: root
+    url: jdbc:mysql://10:20:30:100:3306/blogs
